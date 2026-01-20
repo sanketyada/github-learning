@@ -1,2 +1,3 @@
 # github-learning
-This repo is totally used for brushingmy github leaning again!
+# github-drilling
+Learning Git and GitHub for company work
